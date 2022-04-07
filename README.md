@@ -14,7 +14,7 @@
 <br>
 
 <p align="center" dir="auto">
-😊 My social media if you know more about me:
+😊 My social media if you want to know more about me:
 <div  align="center" dir="auto">
 <a href="https://www.linkedin.com/in/lucas-arag%C3%A3o-8a90b4222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
