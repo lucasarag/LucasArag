@@ -3,11 +3,11 @@
   <br>
   :star: Welcome to my GitHub Profile :star:
       <br><br>
-    :mortar_board: I’m a System Analysis and Development student at Santa Cecilia University
+    :mortar_board: I'm taking a degree in System Analysis and Development at Santa Cecilia University
       <br>
-    Also, I’m currently learning Data Science in Python and SQL :computer:
+    Also, I'm currently in an internship program at IBM and I work in the area of Quality Assurance :computer:
       <br>
-  :robot: I’m focused on learning more about Machine Learning and Data Engineering 
+  :robot: Now, my focus is learning more about Machine Learning and Automation
       <br>
 </p>
 
@@ -21,10 +21,11 @@
 </p>
 <br>
 <p align="center" dir="auto">
-  :zap: I'm learning the tools: :zap: <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  :zap: I'm use and learning: :zap: <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
           
 </p>
