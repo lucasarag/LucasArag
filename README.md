@@ -3,11 +3,11 @@
   <br>
   :star: Welcome to my GitHub Profile :star:
       <br><br>
-    :mortar_board: I'm taking a degree in System Analysis and Development at Santa Cecilia University
+    :mortar_board: I'm graduated in System Analysis and Development at Santa Cecilia University
       <br>
-    Also, I'm currently in an internship program at IBM and I work in the area of Quality Assurance :computer:
+    Also, I'm currently working at IBM in the Quality Assurance area. :computer:
       <br>
-  :robot: Now, my focus is learning more about Machine Learning and Automation
+  :robot: Now, my focus is Automation 
       <br>
 </p>
 
